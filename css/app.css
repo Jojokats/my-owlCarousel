@@ -1,0 +1,40 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+h1 {
+  color: DeepPink ;
+  margin-bottom: 20px;
+}
+hr {
+  width: 10%;
+}
+
+img {
+  /* border: 1px solid gray; */
+  width: 100%;
+}
+
+.bourse {
+  padding-top: 14%;
+}
+
+.without {
+  color: orange;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.aqua {
+  color: DeepSkyBlue;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.box {
+  border: 1px solid orange;
+}
